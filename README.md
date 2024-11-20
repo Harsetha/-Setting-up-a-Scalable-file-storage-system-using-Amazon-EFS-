@@ -51,6 +51,7 @@ cat file  # Verify shared access by reading content created in Instance 1
 
 ![386965681-c509af1a-92eb-45bc-bb31-9e0dc7174233](https://github.com/user-attachments/assets/6b12be94-affb-4af0-b3c1-be792204c1bb)
 
+
 ![386867742-b9f9af9d-9d66-46fd-9c0c-2344c807e401](https://github.com/user-attachments/assets/8e9f81a1-2de5-44eb-92c5-bc34a900dc05)
 
 ### The creation of a file on Instance 1.
